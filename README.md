@@ -1,6 +1,6 @@
 ## 概述
 ### 主要思路和文件组成
-#### 赛题链接
+#### [赛题链接](https://tianchi.aliyun.com/competition/entrance/531805/introduction)
 ![jpeg](https://tianchi-public.oss-cn-hangzhou.aliyuncs.com/public/files/forum/159114959758937451591149597964.jpeg)
 
 #### 主要思路
