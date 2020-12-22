@@ -1,7 +1,7 @@
 ## 概述
 ### 主要思路和文件组成
 #### 赛题链接
-![jpg](.\post.jpg)
+![jpeg](https://tianchi-public.oss-cn-hangzhou.aliyuncs.com/public/files/forum/159114959758937451591149597964.jpeg)
 
 #### 主要思路
 1. 首先使用规则匹配出可能有天文事件的片段，并生成50*50像素的图片（之所以是50*50是为了人看方便，本来计划是LeNet一样的28*28）
